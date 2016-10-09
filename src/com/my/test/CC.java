@@ -13,5 +13,7 @@ public class CC {
 
 	public void aa() {
 		System.out.println("lllll");
+		System.out.println("lllll");
+		System.out.println("lllll");
 	}
 }
